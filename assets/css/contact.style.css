@@ -16,6 +16,12 @@
     color: rgb(143, 44, 90);
     text-decoration: none;
   }
+
+  a img {
+    padding-top: 20px;
+    width: 100px;
+    height: 100px;
+  }
   
   .nav-item {
     float: right;
