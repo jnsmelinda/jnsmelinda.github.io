@@ -1,5 +1,5 @@
 * {
-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -13,8 +13,10 @@ body {
   margin-left: 60px;
 }
 
-.col-md-6 {
-  top: center;
+
+.col-sm-6 .profile {
+  width: 500px;
+  height: auto;
 }
 
 a {
@@ -40,10 +42,6 @@ nav ul {
 nav ul li {
   display: inline-block;
   margin-left: 25px;
-}
-
-main p {
-  width: 60%;
 }
 
 footer {
