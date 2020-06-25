@@ -13,6 +13,14 @@ body {
   margin-left: 60px;
 }
 
+.container {
+   width: 100%;
+}
+
+section {
+  align-items: center;
+}
+
 .col-sm-6 .center {
   display: block;
   margin-left: auto;
@@ -29,8 +37,8 @@ body {
   padding: 10px;
 }
 
-.row{
-  padding-bottom: 20px;
+.col-sm-4 {
+  padding: 20px;
 }
 
 a {
