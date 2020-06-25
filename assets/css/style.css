@@ -39,8 +39,9 @@ a {
 }
 
 .linkedin {
-  padding-top: 20px;
-  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  width: 120px;
   height: 100px;
 }
 
