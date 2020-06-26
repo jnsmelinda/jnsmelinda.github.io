@@ -27,6 +27,7 @@ This is the project of my personal webpage for the [University of Washington cod
 - adding profile picture
 - uplading projects with images using Bootstrap cards
 - adding .editorconfig
+- uploading dna analyzer
 
 © 2020 Melinda Ivanov
 
