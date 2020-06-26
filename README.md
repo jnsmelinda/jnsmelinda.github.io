@@ -1,5 +1,5 @@
 # Melinda Ivanov
-This is my project of my personal webpage. 
+This is the project of my personal webpage for the [University of Washington coding bootcamp](https://bootcamp.uw.edu/) coding bootcamp, homework 2.
 
 **Author:** Melinda Ivanov
 
