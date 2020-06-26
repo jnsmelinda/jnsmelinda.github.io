@@ -1,5 +1,5 @@
 # Melinda Ivanov
-This is my project of my personal webpage.
+This is my project of my personal webpage. 
 
 **Author:** Melinda Ivanov
 
@@ -13,3 +13,20 @@ This is my project of my personal webpage.
 - [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - [Github Pages](https://pages.github.com/)
 - [Bootstrap](https://getbootstrap.com/)
+- Responsive design
+
+## Steps of developement
+- Creating github repository with github pages
+- creating structure  design of biopage utilizing Bootstrap
+- adding projects and contact html pages
+- adding style page
+- adding favicon
+- updating css
+- link pages to navbar
+- adding linkedin button
+- adding profile picture
+- uplading projects with images using Bootstrap cards
+- adding .editorconfig
+
+© 2020 Melinda Ivanov
+
