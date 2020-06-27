@@ -17,7 +17,8 @@ This is the project of my personal webpage for the [University of Washington cod
 
 ## Steps of developement
 - Creating github repository with github pages
-- creating structure  design of biopage utilizing Bootstrap
+- creating structure design of biopage utilizing Bootstrap
+- adding sticky footer
 - adding projects and contact html pages
 - adding style page
 - adding favicon
@@ -28,6 +29,9 @@ This is the project of my personal webpage for the [University of Washington cod
 - uplading projects with images using Bootstrap cards
 - adding .editorconfig
 - uploading dna analyzer
+- fixing form to send email
+- cleanup
+- validator service issues fixed
 
 © 2020 Melinda Ivanov
 
