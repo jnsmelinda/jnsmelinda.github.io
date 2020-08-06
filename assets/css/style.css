@@ -11,6 +11,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
+
 .logo {
   color:  rgb(143, 44, 90);
   font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -43,11 +48,7 @@ section {
 }
 
 .col-sm-4 {
-  padding: 0px;
-}
-
-#project {
-    padding: 7px;
+  padding: 7px;
 }
 
 .linkedin {
