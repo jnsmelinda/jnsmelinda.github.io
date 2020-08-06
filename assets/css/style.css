@@ -43,7 +43,11 @@ section {
 }
 
 .col-sm-4 {
-  padding: 20px;
+  padding: 0px;
+}
+
+#project {
+    padding: 7px;
 }
 
 .linkedin {
