@@ -100,11 +100,11 @@ button:hover {
 }
 
 .fa-file-pdf-o {
-    color: #f40e02a6;
+    color: rgba(199, 29, 108, 0.87);
 }
 
 .fa-file-pdf-o:hover {
-    color: #f40e02a6;
+    color: rgba(199, 29, 108, 0.87);
     opacity: 0.7;
 }
 
