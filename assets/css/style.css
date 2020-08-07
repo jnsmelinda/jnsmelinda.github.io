@@ -1,9 +1,9 @@
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
-  font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 a {
@@ -16,67 +16,69 @@ a:hover {
 }
 
 .logo {
-  color:  rgb(143, 44, 90);
-  font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 50px;
-  margin-left: 60px;
+    color:  rgb(143, 44, 90);
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    margin-left: 60px;
 }
 
 .container {
-   width: 100%;
+    width: 100%;
 }
 
 section {
-  align-items: center;
+    align-items: center;
 }
 
-.col-sm-6 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
+.col-sm-5 .center {
+    display: block;
+    margin: auto;
+    padding-top: 3rem;
+    width: 60%;
 }
 
 .card h1 {
-  color: rgb(143, 44, 90);
-  font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-weight: lighter;
-  font-size: 25px;
-  text-align: center;
-  padding: 10px;
+    color: rgb(143, 44, 90);
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
 }
 
 .col-sm-4 {
-  padding: 7px;
+    padding: 7px;
 }
 
 .linkedin {
-  margin-top: 20px;
-  margin-bottom: 25px;
-  width: 120px;
-  height: 100px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    width: 120px;
+    height: 100px;
 }
 
 .nav-item {
-  float: right;
+    float: right;
 }
 
-.display-4 {
-  color:  rgb(190, 100, 142);
+#greeting {
+    color:  rgb(190, 100, 142);
 }
 
 nav ul {
-  list-style-type: none;
-  font-size: 20px;
-  padding-top: 15px;
-  margin-right: 20px;
+    list-style-type: none;
+    font-size: 20px;
+    padding-top: 15px;
+    margin-right: 20px;
 }
 
 nav ul li {
-  display: inline-block;
-  margin-left: 25px;
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 25px;
+    font-weight: lighter;
 }
 
 footer {
-  text-align: center;
+    text-align: center;
 }
