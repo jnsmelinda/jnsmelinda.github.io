@@ -13,6 +13,8 @@ a {
 
 a:hover {
     text-decoration: none;
+    color: rgb(143, 44, 90);
+    opacity: 0.5;
 }
 
 .logo {
@@ -50,13 +52,6 @@ section {
     padding: 7px;
 }
 
-.linkedin {
-    margin-top: 20px;
-    margin-bottom: 25px;
-    width: 120px;
-    height: 100px;
-}
-
 .nav-item {
     float: right;
 }
@@ -71,28 +66,38 @@ section {
 
 #contact {
     color:  rgb(190, 100, 142);
-    font-size: 25px;
-    margin-left: 15px;
+    font-size: 30px;
+    margin-left: 10px;
 }
 
-#linkedinC {
+#linkedin {
     margin: 10px;
 }
 
-#githubC {
+#github {
     margin: 10px;
 }
 
-.fa:hover {
-    opacity: 0.6;
+#resume {
+    margin: 10px;
 }
 
 .fa-linkedin {
     color:#007bb5;
 }
 
+.fa-linkedin:hover {
+    color:#007bb5;
+    opacity: 0.5;
+}
+
 .fa-github {
     color: black;
+}
+
+.fa-github:hover {
+    color: black;
+    opacity: 0.5;
 }
 
 nav ul {
