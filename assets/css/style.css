@@ -61,8 +61,38 @@ section {
     float: right;
 }
 
+#intro {
+    padding-bottom: 20px;
+}
+
 #greeting {
     color:  rgb(190, 100, 142);
+}
+
+#contact {
+    color:  rgb(190, 100, 142);
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+#linkedinC {
+    margin: 10px;
+}
+
+#githubC {
+    margin: 10px;
+}
+
+.fa:hover {
+    opacity: 0.6;
+}
+
+.fa-linkedin {
+    color:#007bb5;
+}
+
+.fa-github {
+    color: black;
 }
 
 nav ul {
