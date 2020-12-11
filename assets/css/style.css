@@ -148,3 +148,19 @@ nav ul li {
 footer {
     text-align: center;
 }
+
+#emailPhone {
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#contactInfo {
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#phoneRow {
+    margin-top: 20px;
+}
