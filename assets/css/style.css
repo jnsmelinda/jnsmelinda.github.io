@@ -67,6 +67,7 @@ section {
 
 #greeting {
     color:  rgb(190, 100, 142);
+    margin: auto;
 }
 
 #contact {
@@ -94,6 +95,12 @@ button:hover {
 
 #linkedin {
     margin: 10px;
+    margin-left: 10px;
+}
+
+#linkedinContact {
+    margin: 10px;
+    margin-left: 20px;
 }
 
 #github {
@@ -155,6 +162,12 @@ footer {
     margin-bottom: 0px;
 }
 
+#emailPhoneContact {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
 #contactInfo {
     font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-left: 5px;
@@ -171,4 +184,10 @@ p {
 
 #brand-statement {
     font-size: 17px;
+}
+
+#projectText {
+    font-size: 15px;
+    color: rgb(68, 68, 68);
+    font-weight: 400;
 }
